@@ -1,0 +1,37 @@
+_repo: History-of-the-Anglo-SaxonsFrom-the-Earliest-Period-to-the-Norman-Conquest--Second-Edition_45366
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Harvey, William
+    birthdate: 1796
+    deathdate: 1866
+    gutenberg_agent_id: '25917'
+    url: http://www.gutenberg.org/2009/agents/25917
+covers:
+- cover_type: archival
+  image_path: 45366-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Thomas
+    birthdate: 1807
+    deathdate: 1874
+    gutenberg_agent_id: '39601'
+    url: http://www.gutenberg.org/2009/agents/39601
+description: ''
+gutenberg_issued: '2014-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45366'
+  lccn: '02021366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066'
+- !lcsh 'Anglo-Saxons'
+- !lcsh 'Great Britain -- History -- To 449'
+- !lcc 'DA'
+title: "History of the Anglo-Saxons, from the Earliest Period to the Norman Conquest\r\
+  \nSecond Edition"
+url: http://www.gutenberg.org/ebooks/45366
